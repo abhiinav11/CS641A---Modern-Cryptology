@@ -1,0 +1,11 @@
+~$ sage
+┌────────────────────────────────────────────────────────────────────┐
+│ SageMath version 9.5, Release Date: 2022-01-30                     │
+│ Create a "Sage Worksheet" file for the notebook interface.         │
+│ Enhanced for CoCalc.                                               │
+│ Using Python 3.9.9. Type "help()" for help.                        │
+└────────────────────────────────────────────────────────────────────┘
+sage: load("Assn6.sage")
+m is :  317438007725212639901273
+Size of m is :  80
+Password is : C8YP7oLo6Y
